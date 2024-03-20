@@ -1,6 +1,6 @@
 #strings in python
 #Date
-#Name:JOseph
+#Name:Joseph
 
 city="nairobi"
 
